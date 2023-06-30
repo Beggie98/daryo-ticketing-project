@@ -1,2 +1,2 @@
-# CYDEO Ticketing Project Initial Template
+# Daryo Ticketing Project Initial Template
 
